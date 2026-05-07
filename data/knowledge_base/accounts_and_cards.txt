@@ -1,0 +1,64 @@
+TOPIC: Bank Accounts
+
+SAVINGS ACCOUNT
+A savings account is the most basic bank account. It earns interest on your deposited money.
+Minimum balance required: Rs. 1,000
+Interest rate: 3.5% per annum
+Maximum free withdrawals: 5 per month. Beyond that, Rs. 25 per transaction.
+To open a savings account you need: Aadhaar card, PAN card, passport-size photo, and an initial deposit.
+
+CURRENT ACCOUNT
+A current account is designed for businesses and frequent transactions. It does not earn interest.
+Minimum balance required: Rs. 10,000
+No limit on number of transactions.
+Overdraft facility available on request.
+
+FIXED DEPOSIT (FD)
+A fixed deposit locks your money for a fixed period and earns higher interest than a savings account.
+Minimum deposit: Rs. 5,000
+Tenure options: 7 days to 10 years
+Interest rates:
+  - 7 days to 6 months: 4.5%
+  - 6 months to 1 year: 5.75%
+  - 1 year to 3 years: 6.5%
+  - 3 years to 5 years: 6.75%
+  - 5 years to 10 years: 7.0%
+Premature withdrawal is allowed but attracts a 1% penalty on the applicable rate.
+Senior citizens get an additional 0.5% interest on all FD tenures.
+
+RECURRING DEPOSIT (RD)
+A recurring deposit lets you save a fixed amount every month and earn interest.
+Minimum monthly deposit: Rs. 500
+Tenure: 6 months to 10 years
+Interest rate: Same as FD rates for the chosen tenure.
+Missed instalments attract a penalty of Rs. 10 per Rs. 1,000 per month.
+
+---
+
+TOPIC: Debit and Credit Cards
+
+DEBIT CARD
+A debit card is linked directly to your savings or current account.
+Daily ATM withdrawal limit: Rs. 25,000
+Daily POS (point of sale) limit: Rs. 1,00,000
+International usage: Disabled by default. Can be enabled via net banking or by calling customer care.
+Lost card reporting: Call 1800-XXX-XXXX immediately. Card will be blocked within 2 minutes.
+Replacement card takes 5-7 working days and costs Rs. 200.
+
+CREDIT CARD TYPES:
+1. Classic Card - Credit limit up to Rs. 1,00,000. Annual fee Rs. 500. No rewards.
+2. Gold Card - Credit limit up to Rs. 5,00,000. Annual fee Rs. 1,500. 1 reward point per Rs. 100 spent.
+3. Platinum Card - Credit limit up to Rs. 20,00,000. Annual fee Rs. 5,000. 2 reward points per Rs. 100 spent. Lounge access included.
+4. Corporate Card - For business expenses. Limit set by employer.
+
+CREDIT CARD BILL PAYMENT:
+Minimum due: 5% of total outstanding or Rs. 500, whichever is higher.
+Payment due date: 20th of every month.
+Late payment charges: Rs. 500 if outstanding is below Rs. 10,000. Rs. 1,000 if above Rs. 10,000.
+Interest on revolving credit: 3.5% per month (42% per annum).
+Grace period: 45 days from transaction date if full payment is made.
+
+CREDIT CARD ELIGIBILITY:
+Minimum age: 21 years (18 years for add-on cards)
+Minimum income: Rs. 25,000 per month for salaried. Rs. 3,00,000 per annum for self-employed.
+Good CIBIL score required: 700 and above recommended.

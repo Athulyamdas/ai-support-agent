@@ -1,0 +1,77 @@
+TOPIC: Online Banking and Transactions
+
+NET BANKING:
+To register for net banking: Visit home branch with Aadhaar and account number, or register online using debit card and OTP.
+Daily transfer limit via net banking: Rs. 10,00,000 (NEFT/RTGS). Rs. 1,00,000 (IMPS).
+First-time transfer to a new beneficiary: Limited to Rs. 25,000 for the first 24 hours (cooling period).
+
+NEFT (National Electronic Funds Transfer):
+Settlement: In batches, every 30 minutes, 24x7 including holidays.
+Charges: Free for amounts up to Rs. 10,000. Rs. 2.5 for Rs. 10,001 to Rs. 1 lakh. Rs. 5 above Rs. 1 lakh.
+Maximum amount per transaction: No upper limit.
+
+RTGS (Real Time Gross Settlement):
+Settlement: Real time, immediate.
+Minimum amount: Rs. 2,00,000
+Maximum amount: No upper limit.
+Available: 24x7
+Charges: Rs. 5 per transaction.
+
+IMPS (Immediate Payment Service):
+Settlement: Instant, 24x7 including holidays.
+Maximum per transaction: Rs. 5,00,000
+Charges: Rs. 5 per transaction up to Rs. 1 lakh. Rs. 15 above Rs. 1 lakh.
+
+UPI:
+Daily limit: Rs. 1,00,000 per day
+Per transaction limit: Rs. 1,00,000
+No charges for UPI transactions.
+UPI PIN must be changed every 6 months for security.
+
+---
+
+TOPIC: Fraud and Disputed Transactions
+
+REPORTING A FRAUDULENT TRANSACTION:
+Step 1: Call customer care immediately at 1800-XXX-XXXX (24x7 toll free).
+Step 2: Block your card and account if needed.
+Step 3: File a complaint via net banking under "Dispute a Transaction" within 7 days.
+Step 4: Visit home branch and submit written complaint with transaction details.
+
+REFUND TIMELINE FOR DISPUTED TRANSACTIONS:
+If bank error: Refund within 5 working days.
+If merchant error: Refund within 7-10 working days after merchant confirmation.
+If fraud confirmed: Provisional credit within 10 working days. Final resolution within 45 days.
+If customer at fault (shared PIN etc): No refund applicable.
+
+ZERO LIABILITY POLICY:
+Customer has zero liability if: Fraud occurred due to bank negligence, transaction happened without customer knowledge and reported within 3 days.
+Customer has limited liability if: Reported between 4-7 days after fraud — liable for up to Rs. 5,000.
+Customer bears full liability if: Reported after 7 days, or customer shared PIN/OTP with fraudster.
+
+---
+
+TOPIC: Customer Support and Grievances
+
+CUSTOMER CARE:
+Toll free number: 1800-XXX-XXXX (24x7, all days)
+Email: support@ourbank.com (response within 48 hours)
+Branch visit: Monday to Saturday, 10 AM to 4 PM (except 2nd and 4th Saturday)
+Chat support: Available on net banking portal, 8 AM to 10 PM
+
+GRIEVANCE ESCALATION:
+Level 1: Customer care (resolve within 5 working days)
+Level 2: If not resolved, escalate to Nodal Officer via nodal@ourbank.com (resolve within 10 working days)
+Level 3: Banking Ombudsman — if bank does not resolve within 30 days, customer can approach RBI Banking Ombudsman at https://cms.rbi.org.in
+
+KYC UPDATE:
+KYC must be updated every 2 years for high-risk accounts, every 8 years for low-risk accounts.
+Documents needed: Latest address proof and identity proof.
+Can be done at branch, or via video KYC on the mobile app.
+Account may be frozen if KYC is not updated by due date.
+
+ACCOUNT CLOSURE:
+To close an account: Visit home branch with passbook, debit card, and signed closure form.
+All linked services (net banking, UPI, standing instructions) will be automatically disabled.
+Any remaining balance will be paid by demand draft or transfer to another account.
+Closure takes 5-7 working days.

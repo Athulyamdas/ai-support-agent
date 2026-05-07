@@ -1,6 +1,5 @@
 """
 config.py — Centralised configuration loader.
-
 All env vars are read once here; the rest of the app imports from this module.
 """
 
@@ -8,10 +7,8 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 
-# Load .env from project root (works regardless of where you run the app)
 ROOT_DIR = Path(__file__).resolve().parent
 load_dotenv(ROOT_DIR / ".env")
-
 
 # ── LLM ───────────────────────────────────────────────────────────────────────
 LLM_PROVIDER: str = os.getenv("LLM_PROVIDER", "openai").lower()
@@ -33,6 +30,9 @@ SQLITE_DB_PATH: Path = ROOT_DIR / os.getenv("SQLITE_DB_PATH", "data/chat_history
 FAISS_INDEX_PATH: Path = ROOT_DIR / os.getenv("FAISS_INDEX_PATH", "data/faiss_index")
 MOCK_CRM_PATH: Path = ROOT_DIR / os.getenv("MOCK_CRM_PATH", "data/mock_crm/customers.json")
 
+# ── NEW Day 3: Knowledge Base ─────────────────────────────────────────────────
+KNOWLEDGE_BASE_PATH: Path = ROOT_DIR / os.getenv("KNOWLEDGE_BASE_PATH", "data/knowledge_base")
+
 # ── Agent ─────────────────────────────────────────────────────────────────────
 MAX_CONVERSATION_HISTORY: int = int(os.getenv("MAX_CONVERSATION_HISTORY", "20"))
 ESCALATION_THRESHOLD: int = int(os.getenv("ESCALATION_THRESHOLD", "3"))
@@ -40,6 +40,7 @@ CONFIDENCE_THRESHOLD: float = float(os.getenv("CONFIDENCE_THRESHOLD", "0.75"))
 
 
 def validate() -> None:
+    """Raise early with a helpful message if required config is missing."""
     if LLM_PROVIDER == "openai" and not OPENAI_API_KEY:
         raise EnvironmentError(
             "OPENAI_API_KEY is not set. Copy .env.example → .env and add your key."

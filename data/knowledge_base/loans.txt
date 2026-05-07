@@ -1,0 +1,80 @@
+TOPIC: Home Loan
+
+ELIGIBILITY:
+Minimum age: 21 years. Maximum age at loan maturity: 65 years.
+Minimum income (salaried): Rs. 25,000 per month
+Minimum income (self-employed): Rs. 3,00,000 per annum
+Minimum CIBIL score: 700
+Maximum loan amount: Up to 80% of property value (90% for loans below Rs. 30 lakhs)
+Maximum tenure: 30 years
+
+INTEREST RATES:
+Floating rate: 8.5% to 10.5% depending on CIBIL score and loan amount
+Fixed rate (first 3 years): 9.5% then converts to floating
+Women borrowers get 0.05% concession on interest rate.
+
+DOCUMENTS REQUIRED FOR HOME LOAN:
+Identity proof: Aadhaar card or Passport or Voter ID
+Address proof: Aadhaar card or utility bill (not older than 3 months)
+Income proof (salaried): Last 3 months salary slips, 6 months bank statement, Form 16 for last 2 years
+Income proof (self-employed): Last 2 years ITR with computation, 12 months bank statement, business proof
+Property documents: Sale agreement, title deed, approved building plan, NOC from builder
+Photographs: 2 passport-size photos
+
+PROCESSING:
+Processing fee: 0.5% of loan amount, minimum Rs. 5,000, maximum Rs. 25,000
+Processing time: 7-10 working days after all documents are submitted
+Disbursement: Direct to seller's account for resale property. Stage-wise for under-construction.
+
+PREPAYMENT:
+Floating rate loans: No prepayment penalty
+Fixed rate loans: 2% penalty on prepaid amount if prepaid within 3 years
+
+---
+
+TOPIC: Personal Loan
+
+ELIGIBILITY:
+Age: 21 to 60 years
+Minimum income: Rs. 20,000 per month (net take-home)
+Minimum CIBIL score: 700
+Employment: Minimum 1 year in current job, 2 years total work experience
+
+LOAN DETAILS:
+Loan amount: Rs. 50,000 to Rs. 40,00,000
+Tenure: 12 months to 60 months
+Interest rate: 10.5% to 18% per annum depending on profile
+Processing fee: 2% of loan amount plus GST
+
+DOCUMENTS REQUIRED FOR PERSONAL LOAN:
+Identity proof: Aadhaar or PAN or Passport
+Address proof: Aadhaar or utility bill
+Income proof: Last 3 months salary slips, 3 months bank statement
+Employment proof: Offer letter or employee ID card
+
+DISBURSEMENT: Within 24 to 48 hours after approval.
+
+---
+
+TOPIC: Car Loan / Vehicle Loan
+
+Loan amount: Up to 90% of on-road price for new cars. Up to 70% for used cars.
+Tenure: 12 months to 84 months
+Interest rate: 8.75% to 12% for new cars. 12% to 16% for used cars.
+Processing fee: 1% of loan amount, minimum Rs. 2,500
+
+DOCUMENTS REQUIRED FOR CAR LOAN:
+Identity and address proof (same as personal loan)
+Income proof (same as personal loan)
+Vehicle documents: Proforma invoice from dealer (for new car) or RC book (for used car)
+Insurance: Comprehensive insurance mandatory
+
+---
+
+TOPIC: Education Loan
+
+Loan amount: Up to Rs. 10 lakhs for studies in India. Up to Rs. 20 lakhs for abroad.
+Interest rate: 9.5% to 13%
+Moratorium period: Course duration plus 1 year (no EMI during this period)
+Collateral: Not required for loans up to Rs. 7.5 lakhs. Required above that.
+Tax benefit: Interest paid is fully deductible under Section 80E for 8 years.

@@ -1,2 +1,7 @@
 .env 
 __pycache__/ 
+data/faiss_index/ 
+data/chat_history.db 
+__pycache__/ 
+*.pyc 
+.env 
