@@ -33,9 +33,9 @@ Chat UI  ──►  Flask REST API  ──►  LangChain Agent  ──►  Stora
 | Day | Goal | Status |
 |-----|------|--------|
 | 1 | Project setup, LLM connection, multi-turn chain | ✅ |
-| 2 | SQLite persistence, session management | 🔜 |
-| 3 | FAISS knowledge base ingestion & retrieval | 🔜 |
-| 4 | CRM integration, LangChain Tools | 🔜 |
+| 2 | SQLite persistence, session management | ✅ |
+| 3 | FAISS knowledge base ingestion & retrieval | ✅ |
+| 4 | CRM integration, LangChain Tools | ✅ |
 | 5 | Decision router (answer/search/escalate) | 🔜 |
 | 6 | Full LangChain Agent with tool-use | 🔜 |
 | 7 | Polish, error handling, portfolio write-up | 🔜 |
