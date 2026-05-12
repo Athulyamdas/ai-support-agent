@@ -5,3 +5,8 @@ data/chat_history.db
 __pycache__/ 
 *.pyc 
 .env 
+data/faiss_index/ 
+data/chat_history.db 
+__pycache__/ 
+*.pyc 
+*.pyc 

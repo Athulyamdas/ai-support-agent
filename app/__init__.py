@@ -1,16 +1,13 @@
 """
 app/__init__.py — Flask application factory.
 
-WHAT CHANGED FROM DAY 1?
+WHAT CHANGED FROM DAY 3?
 ─────────────────────────
-Two additions:
-  1. init_db() is called at startup — creates SQLite tables if missing
-  2. admin_bp is registered — adds the /api/admin/* endpoints
+Added: crm_bp registration for /api/crm/* endpoints
 """
 
 from flask import Flask
 from flask_cors import CORS
-
 import config
 
 
@@ -22,16 +19,19 @@ def create_app() -> Flask:
 
     CORS(app, resources={r"/api/*": {"origins": "*"}})
 
-    # ── NEW: Initialise the database (creates tables if they don't exist) ──
+    # Initialise database
     from app.storage.database import init_db
     init_db()
 
-    # Register blueprints (groups of related routes)
+    # Register all blueprints
     from app.api.routes import api_bp
     app.register_blueprint(api_bp)
 
-    # ── NEW: Register admin blueprint for history inspection ──
     from app.api.admin_routes import admin_bp
     app.register_blueprint(admin_bp)
+
+    # NEW Day 4: CRM endpoints
+    from app.api.crm_routes import crm_bp
+    app.register_blueprint(crm_bp)
 
     return app

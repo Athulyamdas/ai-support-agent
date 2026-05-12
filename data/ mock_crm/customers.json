@@ -4,34 +4,194 @@
       "customer_id": "CUST-001",
       "name": "Alice Johnson",
       "email": "alice@example.com",
-      "plan": "Pro",
-      "status": "active",
-      "account_created": "2023-03-15",
+      "phone": "9876543210",
+      "date_of_birth": "1990-05-15",
+      "account_number": "SB-001-2023",
+      "account_type": "Savings",
+      "account_status": "active",
+      "account_opened": "2023-03-15",
+      "kyc_status": "verified",
+      "kyc_due_date": "2031-03-15",
+      "balance": 45230.50,
+      "last_login": "2024-10-01",
+      "branch": "Hyderabad Main Branch",
+      "ifsc": "OURB0001234",
+      "cards": [
+        {
+          "card_type": "Debit",
+          "card_number_last4": "4521",
+          "status": "active",
+          "daily_limit": 25000
+        },
+        {
+          "card_type": "Credit",
+          "card_variant": "Gold",
+          "card_number_last4": "7823",
+          "status": "active",
+          "credit_limit": 500000,
+          "outstanding": 12500,
+          "due_date": "2024-11-20",
+          "min_due": 625
+        }
+      ],
+      "loans": [],
       "open_tickets": 0,
       "billing_status": "current",
-      "last_login": "2024-10-01"
+      "cibil_score": 780
     },
     {
       "customer_id": "CUST-002",
       "name": "Bob Martinez",
       "email": "bob@example.com",
-      "plan": "Starter",
-      "status": "active",
-      "account_created": "2024-01-08",
+      "phone": "9123456780",
+      "date_of_birth": "1985-11-22",
+      "account_number": "SB-002-2024",
+      "account_type": "Savings",
+      "account_status": "active",
+      "account_opened": "2024-01-08",
+      "kyc_status": "verified",
+      "kyc_due_date": "2032-01-08",
+      "balance": 3200.00,
+      "last_login": "2024-09-28",
+      "branch": "Hyderabad West Branch",
+      "ifsc": "OURB0001234",
+      "cards": [
+        {
+          "card_type": "Debit",
+          "card_number_last4": "9034",
+          "status": "active",
+          "daily_limit": 25000
+        },
+        {
+          "card_type": "Credit",
+          "card_variant": "Classic",
+          "card_number_last4": "3341",
+          "status": "active",
+          "credit_limit": 100000,
+          "outstanding": 45000,
+          "due_date": "2024-11-20",
+          "min_due": 2250
+        }
+      ],
+      "loans": [
+        {
+          "loan_type": "Personal Loan",
+          "loan_id": "PL-2024-0892",
+          "principal": 200000,
+          "outstanding": 185000,
+          "emi": 4500,
+          "emi_due_date": "5th of every month",
+          "status": "active",
+          "overdue_amount": 9000,
+          "overdue_months": 2
+        }
+      ],
       "open_tickets": 2,
       "billing_status": "overdue",
-      "last_login": "2024-09-28"
+      "cibil_score": 620
     },
     {
       "customer_id": "CUST-003",
       "name": "Carol Singh",
       "email": "carol@example.com",
-      "plan": "Enterprise",
-      "status": "suspended",
-      "account_created": "2022-11-20",
+      "phone": "9988776655",
+      "date_of_birth": "1978-07-30",
+      "account_number": "SB-003-2022",
+      "account_type": "Savings",
+      "account_status": "frozen",
+      "account_opened": "2022-11-20",
+      "kyc_status": "expired",
+      "kyc_due_date": "2024-11-20",
+      "balance": 125000.00,
+      "last_login": "2024-08-15",
+      "branch": "Hyderabad East Branch",
+      "ifsc": "OURB0001234",
+      "cards": [
+        {
+          "card_type": "Debit",
+          "card_number_last4": "6612",
+          "status": "blocked",
+          "daily_limit": 25000
+        },
+        {
+          "card_type": "Credit",
+          "card_variant": "Platinum",
+          "card_number_last4": "5590",
+          "status": "suspended",
+          "credit_limit": 2000000,
+          "outstanding": 0,
+          "due_date": null,
+          "min_due": 0
+        }
+      ],
+      "loans": [
+        {
+          "loan_type": "Home Loan",
+          "loan_id": "HL-2022-0234",
+          "principal": 5000000,
+          "outstanding": 4200000,
+          "emi": 45000,
+          "emi_due_date": "10th of every month",
+          "status": "active",
+          "overdue_amount": 0,
+          "overdue_months": 0
+        }
+      ],
       "open_tickets": 1,
       "billing_status": "current",
-      "last_login": "2024-08-15"
+      "cibil_score": 710
+    },
+    {
+      "customer_id": "CUST-004",
+      "name": "David Kumar",
+      "email": "david@example.com",
+      "phone": "9000011112",
+      "date_of_birth": "1995-03-10",
+      "account_number": "SB-004-2023",
+      "account_type": "Savings",
+      "account_status": "active",
+      "account_opened": "2023-06-01",
+      "kyc_status": "verified",
+      "kyc_due_date": "2031-06-01",
+      "balance": 89000.00,
+      "last_login": "2024-10-02",
+      "branch": "Hyderabad North Branch",
+      "ifsc": "OURB0001234",
+      "cards": [
+        {
+          "card_type": "Debit",
+          "card_number_last4": "2278",
+          "status": "active",
+          "daily_limit": 25000
+        }
+      ],
+      "loans": [
+        {
+          "loan_type": "Car Loan",
+          "loan_id": "CL-2023-1102",
+          "principal": 800000,
+          "outstanding": 650000,
+          "emi": 16500,
+          "emi_due_date": "15th of every month",
+          "status": "active",
+          "overdue_amount": 0,
+          "overdue_months": 0
+        },
+        {
+          "loan_type": "Education Loan",
+          "loan_id": "EL-2023-0045",
+          "principal": 500000,
+          "outstanding": 500000,
+          "emi": 0,
+          "emi_due_date": "Moratorium period (ends 2025-06-01)",
+          "status": "moratorium",
+          "overdue_amount": 0,
+          "overdue_months": 0
+        }
+      ],
+      "open_tickets": 0,
+      "billing_status": "current",
+      "cibil_score": 755
     }
   ]
 }
